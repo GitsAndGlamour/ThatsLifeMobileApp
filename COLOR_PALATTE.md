@@ -1,28 +1,28 @@
 #####  Color Palette by Paletton.com
 #####  Palette URL: http://paletton.com/#uid=73B0w0krHgWvcprsulnp2domUax
 
-*** Primary color:   
+** Primary color: **  
 shade 0 = #123358 = rgb( 18, 51, 88) = rgba( 18, 51, 88,1) = rgb0(0.071,0.2,0.345)   
 shade 1 = #0E4684 = rgb( 14, 70,132) = rgba( 14, 70,132,1) = rgb0(0.055,0.275,0.518)   
 shade 2 = #143F6F = rgb( 20, 63,111) = rgba( 20, 63,111,1) = rgb0(0.078,0.247,0.435)   
 shade 3 = #132B46 = rgb( 19, 43, 70) = rgba( 19, 43, 70,1) = rgb0(0.075,0.169,0.275)   
 shade 4 = #132437 = rgb( 19, 36, 55) = rgba( 19, 36, 55,1) = rgb0(0.075,0.141,0.216)
 
-*** Secondary color (1):   
+** Secondary color (1): **
 shade 0 = #20175E = rgb( 32, 23, 94) = rgba( 32, 23, 94,1) = rgb0(0.125,0.09,0.369)   
 shade 1 = #24168D = rgb( 36, 22,141) = rgba( 36, 22,141,1) = rgb0(0.141,0.086,0.553)   
 shade 2 = #261B76 = rgb( 38, 27,118) = rgba( 38, 27,118,1) = rgb0(0.149,0.106,0.463)   
 shade 3 = #1E184A = rgb( 30, 24, 74) = rgba( 30, 24, 74,1) = rgb0(0.118,0.094,0.29)   
 shade 4 = #1A163A = rgb( 26, 22, 58) = rgba( 26, 22, 58,1) = rgb0(0.102,0.086,0.227)
 
-*** Secondary color (2):   
+** Secondary color (2): **
 shade 0 = #876E12 = rgb(135,110, 18) = rgba(135,110, 18,1) = rgb0(0.529,0.431,0.071)   
 shade 1 = #CBA005 = rgb(203,160,  5) = rgba(203,160,  5,1) = rgb0(0.796,0.627,0.02)   
 shade 2 = #AA8A13 = rgb(170,138, 19) = rgba(170,138, 19,1) = rgb0(0.667,0.541,0.075)   
 shade 3 = #6B5917 = rgb(107, 89, 23) = rgba(107, 89, 23,1) = rgb0(0.42,0.349,0.09)   
 shade 4 = #544718 = rgb( 84, 71, 24) = rgba( 84, 71, 24,1) = rgb0(0.329,0.278,0.094)
 
-*** Complement color:   
+** Complement color: **
 shade 0 = #875912 = rgb(135, 89, 18) = rgba(135, 89, 18,1) = rgb0(0.529,0.349,0.071)   
 shade 1 = #CB7D05 = rgb(203,125,  5) = rgba(203,125,  5,1) = rgb0(0.796,0.49,0.02)   
 shade 2 = #AA6F13 = rgb(170,111, 19) = rgba(170,111, 19,1) = rgb0(0.667,0.435,0.075)   
